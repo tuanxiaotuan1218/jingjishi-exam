@@ -1,71 +1,37 @@
 {
   "name": "经济师备考助手",
   "short_name": "经济师",
-  "description": "中级经济师工商管理专业备考督促工具，支持章节进度跟踪、学习打卡、数据统计和成就系统",
-  "start_url": "./index.html",
+  "description": "中级经济师工商管理专业备考督促工具",
+  "start_url": "https://tuanxiaotuan1218.github.io/jingjishi-exam/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F8FAFC",
   "theme_color": "#4F46E5",
   "lang": "zh-CN",
-  "dir": "ltr",
-  "categories": ["education", "productivity"],
   "icons": [
     {
-      "src": "icons/icon-72x72.svg",
-      "sizes": "72x72",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "icons/icon-96x96.svg",
-      "sizes": "96x96",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "icons/icon-128x128.svg",
-      "sizes": "128x128",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "icons/icon-144x144.svg",
-      "sizes": "144x144",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "icons/icon-152x152.svg",
-      "sizes": "152x152",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "icons/icon-192x192.svg",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiB2aWV3Qm94PSIwIDAgMTkyIDE5MiI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzRGNDZFNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM3QzNBRUQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMzgiIGZpbGw9InVybCgjYmcpIi8+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTYsIDcyLjk2MDAwMDAwMDAwMDAxKSI+CiAgICA8cmVjdCB4PSItNDIuMjQiIHk9Ii01My43NjAwMDAwMDAwMDAwMDUiIHdpZHRoPSI4NC40OCIgaGVpZ2h0PSI2OS4xMiIgcng9IjcuNjgiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjk1Ii8+CiAgICA8cmVjdCB4PSItMzAuNzIiIHk9Ii0zNC41NiIgd2lkdGg9IjYxLjQ0IiBoZWlnaHQ9IjMuODQiIHJ4PSIxLjkyIiBmaWxsPSIjNEY0NkU1IiBvcGFjaXR5PSIwLjMiLz4KICAgIDxyZWN0IHg9Ii0zMC43MiIgeT0iLTE5LjIwMDAwMDAwMDAwMDAwMyIgd2lkdGg9IjQ2LjA4IiBoZWlnaHQ9IjMuODQiIHJ4PSIxLjkyIiBmaWxsPSIjNEY0NkU1IiBvcGFjaXR5PSIwLjMiLz4KICAgIDxyZWN0IHg9Ii0zMC43MiIgeT0iLTMuODQiIHdpZHRoPSI1My43NjAwMDAwMDAwMDAwMDUiIGhlaWdodD0iMy44NCIgcng9IjEuOTIiIGZpbGw9IiM0RjQ2RTUiIG9wYWNpdHk9IjAuMyIvPgogIDwvZz4KICA8dGV4dCB4PSI1MCUiIHk9Ijc4JSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIGZvbnQtc2l6ZT0iMjUiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC45NSkiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIj7nu4/mtY7luIg8L3RleHQ+Cjwvc3ZnPg==",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-384x384.svg",
-      "sizes": "384x384",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "icons/icon-512x512.svg",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzRGNDZFNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM3QzNBRUQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTAyIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1NiwgMTk0LjU2KSI+CiAgICA8cmVjdCB4PSItMTEyLjY0IiB5PSItMTQzLjM2IiB3aWR0aD0iMjI1LjI4IiBoZWlnaHQ9IjE4NC4zMiIgcng9IjIwLjQ4IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPgogICAgPHJlY3QgeD0iLTgxLjkyIiB5PSItOTIuMTYiIHdpZHRoPSIxNjMuODQiIGhlaWdodD0iMTAuMjQiIHJ4PSI1LjEyIiBmaWxsPSIjNEY0NkU1IiBvcGFjaXR5PSIwLjMiLz4KICAgIDxyZWN0IHg9Ii04MS45MiIgeT0iLTUxLjIiIHdpZHRoPSIxMjIuODgiIGhlaWdodD0iMTAuMjQiIHJ4PSI1LjEyIiBmaWxsPSIjNEY0NkU1IiBvcGFjaXR5PSIwLjMiLz4KICAgIDxyZWN0IHg9Ii04MS45MiIgeT0iLTEwLjI0IiB3aWR0aD0iMTQzLjM2IiBoZWlnaHQ9IjEwLjI0IiByeD0iNS4xMiIgZmlsbD0iIzRGNDZFNSIgb3BhY2l0eT0iMC4zIi8+CiAgPC9nPgogIDx0ZXh0IHg9IjUwJSIgeT0iNzglIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0iY2VudHJhbCIgZm9udC1zaXplPSI2NyIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjk1KSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiPue7j+a1juW4iDwvdGV4dD4KPC9zdmc+",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "icons/maskable-192x192.svg",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiB2aWV3Qm94PSIwIDAgMTkyIDE5MiI+CiAgPHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIGZpbGw9IiM0RjQ2RTUiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5NiwgODAuNjQpIj4KICAgIDxyZWN0IHg9Ii0zNC41NiIgeT0iLTQ2LjA4IiB3aWR0aD0iNjkuMTIiIGhlaWdodD0iNTcuNTk5OTk5OTk5OTk5OTk0IiByeD0iNy42OCIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz4KICAgIDxyZWN0IHg9Ii0yMy4wNCIgeT0iLTI2Ljg4MDAwMDAwMDAwMDAwMyIgd2lkdGg9IjQ2LjA4IiBoZWlnaHQ9IjMuODQiIHJ4PSIxLjkyIiBmaWxsPSIjNEY0NkU1IiBvcGFjaXR5PSIwLjMiLz4KICAgIDxyZWN0IHg9Ii0yMy4wNCIgeT0iLTE1LjM2IiB3aWR0aD0iMzQuNTYiIGhlaWdodD0iMy44NCIgcng9IjEuOTIiIGZpbGw9IiM0RjQ2RTUiIG9wYWNpdHk9IjAuMyIvPgogIDwvZz4KICA8dGV4dCB4PSI1MCUiIHk9Ijc1JSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIGZvbnQtc2l6ZT0iMTkiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC45NSkiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIj7nu4/mtY7luIg8L3RleHQ+Cjwvc3ZnPg==",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "maskable"
     },
     {
-      "src": "icons/maskable-512x512.svg",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+CiAgPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiM0RjQ2RTUiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNTYsIDIxNS4wNCkiPgogICAgPHJlY3QgeD0iLTkyLjE2IiB5PSItMTIyLjg4IiB3aWR0aD0iMTg0LjMyIiBoZWlnaHQ9IjE1My42IiByeD0iMjAuNDgiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjk1Ii8+CiAgICA8cmVjdCB4PSItNjEuNDQiIHk9Ii03MS42OCIgd2lkdGg9IjEyMi44OCIgaGVpZ2h0PSIxMC4yNCIgcng9IjUuMTIiIGZpbGw9IiM0RjQ2RTUiIG9wYWNpdHk9IjAuMyIvPgogICAgPHJlY3QgeD0iLTYxLjQ0IiB5PSItNDAuOTYiIHdpZHRoPSI5Mi4xNiIgaGVpZ2h0PSIxMC4yNCIgcng9IjUuMTIiIGZpbGw9IiM0RjQ2RTUiIG9wYWNpdHk9IjAuMyIvPgogIDwvZz4KICA8dGV4dCB4PSI1MCUiIHk9Ijc1JSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIGZvbnQtc2l6ZT0iNTEiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC45NSkiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIj7nu4/mtY7luIg8L3RleHQ+Cjwvc3ZnPg==",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "maskable"
     }
-  ],
-  "screenshots": [],
-  "prefer_related_applications": false
+  ]
 }
