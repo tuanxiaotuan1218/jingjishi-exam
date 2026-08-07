@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
-  <rect width="192" height="192" fill="#4F46E5"/>
-  <g transform="translate(96, 80.64)">
-    <rect x="-34.56" y="-46.08" width="69.12" height="57.599999999999994" rx="7.68" fill="white" opacity="0.95"/>
-    <rect x="-23.04" y="-26.880000000000003" width="46.08" height="3.84" rx="1.92" fill="#4F46E5" opacity="0.3"/>
-    <rect x="-23.04" y="-15.36" width="34.56" height="3.84" rx="1.92" fill="#4F46E5" opacity="0.3"/>
-  </g>
-  <text x="50%" y="75%" text-anchor="middle" dominant-baseline="central" font-size="19" fill="rgba(255,255,255,0.95)" font-weight="bold" font-family="system-ui, sans-serif">经济师</text>
-</svg>
